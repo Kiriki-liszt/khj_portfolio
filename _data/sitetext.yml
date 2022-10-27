@@ -23,14 +23,14 @@ en: &DEFAULT_EN
     list:
       - title: "MR 제작"
         desc: "어케 만들어줄지, 혹은 설명"
-        icon: fas fa-headphones-alt 
+        icon: fas fa-file-audio
         #find more at https://fontawesome.com/icons
       - title: "보컬 믹싱"
         desc: "보컬 믹싱이란 무엇인가"
         icon: fas fa-microphone-alt
       - title: "유튜브 영상 제작"
         desc: "Your description here, full **Markdown** support"
-        icon: fa-solid fa-tv-music
+        icon: fas fa-photo-video
 
   portfolio:
     title: "Portfolio"
