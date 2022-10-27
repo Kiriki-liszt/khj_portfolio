@@ -11,15 +11,16 @@ image: https://place-hold.it/400x300 #main image, can be a link or a file in ass
 alt: image alt text
 ---
 
+{:.list-inline}  
 
-1. 스피커  
+- 스피커  
   어떤거 쓰는지  
 
-2. 마이크  
+- 마이크  
   ㅍㄷㅈㄷㅈ
 
-3. 아웃보드 / 오인페  
+- 아웃보드 / 오인페  
   ㅈㄷㅎㅈㄷㅎ  
 
-4. 플러그인
+- 플러그인
   ㄹㅇ
