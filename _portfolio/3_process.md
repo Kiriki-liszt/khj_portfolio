@@ -9,6 +9,8 @@ title: 진행 과정
 subtitle: 각 세션의 진행 과정입니다. 
 image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
+
+category: process_price
 ---
 
 

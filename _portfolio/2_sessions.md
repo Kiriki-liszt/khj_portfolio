@@ -9,6 +9,8 @@ title: 세션
 subtitle: 제공하는 세션들에 대한 소개입니다. 
 image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
+
+category: process_price
 ---
 
 

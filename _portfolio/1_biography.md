@@ -9,6 +9,8 @@ title: Biography
 subtitle: 작업물들을 소개합니다. 
 image: https://raw.githubusercontent.com/Kiriki-liszt/khj_portfolio/master/assets/img/portfolio/04-thumbnail.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
+
+category: portfolio
 ---
 
 
