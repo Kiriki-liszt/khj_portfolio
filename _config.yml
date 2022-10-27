@@ -11,20 +11,29 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-theme: jekyll-agency
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Your Awesome Website
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Site description"
+theme                    : jekyll-agency
+
+locale                   : "ko-KR"
+title                    : "KHJ PORTFOLIO"
+title_separator          : "-"
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "yg331_KHJ"
+description              : "For my Mixing Porfolio"
+email                    : your-email@example.com #this is also the email contact forms will go to
+url                      : "https://kiriki-liszt.github.io"   # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/khj_portfolio"                           # the subpath of your site, e.g. "/blog"
+repository               : "kiriki-liszt/khj_portfolio"   # e.g. "mmistakes/minimal-mistakes"
+
 author     : Your Name
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
-
-locale: "en-US" # See available languages in _data/sitetext.yml
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
 
 analytics:
   google: #Google Analytics tracking code here
