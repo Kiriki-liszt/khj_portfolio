@@ -96,7 +96,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "소개글. _data/sitetext.yml"
+    body: "소개글 zdfzg. _data/sitetext.yml"
     section: about
 
 
