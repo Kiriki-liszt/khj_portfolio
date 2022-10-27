@@ -2,7 +2,7 @@
 {% for project in site.process_price %}
 {% if site.locale and site.locale != "" and site.locale != nil %}
 <div
-  class="process_price-modal modal fade"
+  class="portfolio-modal modal fade"
   id="p{{ forloop.index }}"
   tabindex="-1"
   role="dialog"
@@ -46,7 +46,7 @@
 </div>
 {% else %}
 <div
-  class="process_price-modal modal fade"
+  class="portfolio-modal modal fade"
   id="p{{ forloop.index }}"
   tabindex="-1"
   role="dialog"
