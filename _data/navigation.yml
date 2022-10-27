@@ -24,6 +24,8 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
+    - title: "Enviroments"
+      section: enviroments
 
 en-US:
   <<: *DEFAULT_EN
