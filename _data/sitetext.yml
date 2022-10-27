@@ -50,21 +50,6 @@ en: &DEFAULT_EN
     title: "Timeline"
     text: "이건 할지 말지 몰루"
     section: timeline
-    list:
-      - title: "MR 제작"
-        desc: "원하는 곡을 카피해드립니다. 
-              <br/>장르 가리지 않고 받을 수 있지만 KPOP, 힙합을 제외하면 시간이 걸릴 수 있습니다. "
-        icon: fas fa-file-audio
-        #find more at https://fontawesome.com/icons
-      - title: "보컬 믹싱"
-        desc: "원하는 스타일로 보컬 믹싱해드립니다.  
-              <br/>원하시면 작업실 방문 후 녹음 가능합니다. "
-        icon: fas fa-microphone-alt
-      - title: "유튜브 영상 제작"
-        desc: "영상 촬영 및 편집해드립니다. 
-              <br/>퀄리티는 아직 몰루?  
-              <br/>**Markdown** support"
-        icon: fas fa-photo-video
     # left is the default
     #start_align: "left"
     events:
@@ -98,6 +83,13 @@ en: &DEFAULT_EN
     text: "our story"
     body: "소개글 zdfzg. _data/sitetext.yml"
     section: about
+
+
+  process_price:
+    title: "가격 및 작업 과정"
+    text: "ㅇㅁ퓬굳ㅅ그ㅛ,ㅕ.ㅑ/ "
+    section: process_price
+    closebutton: "Close"
 
 
   enviroments:
