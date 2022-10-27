@@ -18,6 +18,8 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "About"
       section: about
+    - title: "Process & Price"
+      section: process_price
     - title: "Enviroments"
       section: enviroments
     - title: "Timeline"
