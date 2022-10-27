@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         desc: "보컬 믹싱이란 무엇인가"
         icon: fas fa-microphone-alt
       - title: "유튜브 영상 제작"
-        desc: "Your description here, full **Markdown** support"
+        desc: "유튜브 영상을 제작한다. **Markdown** support"
         icon: fas fa-photo-video
 
   portfolio:
