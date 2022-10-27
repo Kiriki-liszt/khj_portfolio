@@ -18,28 +18,29 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "제공하는 서비스들"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "MR 제작"
+        desc: "어케 만들어줄지, 혹은 설명"
+        icon: fas fa-tv-music 
+        #find more at https://fontawesome.com/icons
+      - title: "보컬 믹싱"
+        desc: "보컬 믹싱이란 무엇인가"
+        icon: fas fa-microphone-lines
+      - title: "유튜브 영상 제작"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fab fa-photo-film
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "포트폴리오오오오옹"
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "이건 할지 말지 몰루"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -71,7 +72,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "소개글. _data/sitetext.yml"
     section: about
 
   clients:
@@ -157,6 +158,7 @@ en: &DEFAULT_EN
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
