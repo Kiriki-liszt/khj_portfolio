@@ -13,7 +13,7 @@
 
 
 
-theme                    : jekyll-agency
+# theme                    : jekyll-agency
 
 locale                   : "ko-KR"
 title                    : "KHJ PORTFOLIO"
