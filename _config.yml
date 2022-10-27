@@ -15,7 +15,7 @@
 
 # theme                    : jekyll-agency
 
-locale                   : "ko-KR"
+locale                   : "en-US"
 title                    : "KHJ PORTFOLIO"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
