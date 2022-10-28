@@ -16,17 +16,17 @@
 # theme                    : jekyll-agency
 
 locale                   : "en-US"
-title                    : "KHJ PORTFOLIO"
+title                    : "스튜디오 미디올로지"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "yg331_KHJ"
-description              : "For my Mixing Porfolio"
+description              : "공현중의 포트폴리오 겸 커미션 사이트"
 email                    : your-email@example.com #this is also the email contact forms will go to
 url                      : "https://kiriki-liszt.github.io"   # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/khj_portfolio"                           # the subpath of your site, e.g. "/blog"
 repository               : "kiriki-liszt/khj_portfolio"   # e.g. "mmistakes/minimal-mistakes"
 
-author     : Your Name
+author                   : yg331_KHJ
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
