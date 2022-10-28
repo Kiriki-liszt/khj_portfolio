@@ -81,7 +81,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "저희는 '팀 이름 혹은 김현중' 이라고 합니다. 
+    body: "저희는 '팀 이름 혹은 공현중' 이라고 합니다. 
           <br/>저희는 웹드라마 OST 작곡 및 대학교 동아리 학생들을 대상으로 작곡 교육을 진행하고 있습니다. 
           <br/>주로 MR 제작 및 보컬 믹싱을 하고 있으며 이 외에도 작곡 교육이나 작업실 대여, 유튜브 영상 촬영 및 제작 또한 진행하고 있습니다. " 
     section: about
@@ -126,7 +126,7 @@ en: &DEFAULT_EN
     subtext: 다양한 일을 하는 저희 팀의 팀원들입니다. 
     section: team
     people:
-      - name: "김현중"
+      - name: "공현중"
         role: "팀장 - 주 작편곡자"
         image: assets/img/team/500x500.jpg
         social:
