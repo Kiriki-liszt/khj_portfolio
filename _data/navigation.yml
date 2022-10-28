@@ -18,7 +18,7 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "어바웃-어스"
       section: about
-    - title: "진행과정 / 가격"
+    - title: "작업 과정 / 가격"
       section: process_price
     - title: "작업 환경"
       section: enviroments
