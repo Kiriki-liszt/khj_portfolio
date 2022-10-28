@@ -50,3 +50,7 @@ The Jekyll structure of this theme includes:
   - [x] 안쪽
   - [ ] ㄱ
 - [ ] 안된거
+
+### 한것
+
+agency.scss에 pp 모달 수정  
