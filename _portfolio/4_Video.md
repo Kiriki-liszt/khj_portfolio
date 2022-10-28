@@ -1,12 +1,12 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: 가격
-  subtitle: 세션당 가격
+  title: 영상 제작 
+  subtitle: 영상 만들어드립니다. 
   thumbnail: https://place-hold.it/400x300
   
 #what displays when the item is clicked:
-title: 가격
-subtitle: 각 세션의 가격입니다. 
+title: 영상 제작
+subtitle: 영상 만들어드립니다. 
 image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
