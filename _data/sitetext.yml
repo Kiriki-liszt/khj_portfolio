@@ -45,7 +45,7 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close"
 
-
+    
   timeline:
     title: "Timeline"
     text: "이건 할지 말지 몰루"
