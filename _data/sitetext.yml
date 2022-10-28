@@ -41,7 +41,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "저의 작업물들입니다."
+    text: "저의 작업물들입니다. <br/>클릭해서 자세히 볼 수 있습니다. "
     section: portfolio
     closebutton: "Close"
 
@@ -81,7 +81,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "저희는 '팀 이름 혹은 공현중' 이라고 합니다. 
+    body: "저희는 '스튜디오 미디올로지 / 공현중' 이라고 합니다. 
           <br/>저희는 웹드라마 OST 작곡 및 대학교 동아리 학생들을 대상으로 작곡 교육을 진행하고 있습니다. 
           <br/>주로 MR 제작 및 보컬 믹싱을 하고 있으며 이 외에도 작곡 교육이나 작업실 대여, 유튜브 영상 촬영 및 제작 또한 진행하고 있습니다. " 
     section: about
@@ -89,7 +89,7 @@ en: &DEFAULT_EN
 
   process_price:
     title: "작업 과정 / 가격"
-    text: "제공하는 서비스의 작업 과정 및 가격에대한 설명입니다. "
+    text: "작업 과정 및 가격에 대한 설명입니다. <br/>클릭해서 자세히 볼 수 있습니다."
     section: process_price
     closebutton: "Close"
 
@@ -99,25 +99,6 @@ en: &DEFAULT_EN
     text: "작업 환경"
     body: "스피커, 마이크, 오인페, 등등"
     section: enviroments
-
-
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
 
 
   team:
@@ -158,9 +139,27 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
 
+  clients:
+    section: clients
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "envato"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/envato.jpg
+      - title: "designmodo"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/designmodo.jpg
+      - title: "themeforest"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/themeforest.jpg
+      - title: "Creative Market"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/creative-market.jpg
+
   contact:
     title: "Contact Us"
-    text: "팀 의뢰, 문의 등의 연락은 이쪽으러 주세요"
+    text: "팀 의뢰, 문의 등의 연락은 이쪽으로 주세요"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -183,7 +182,7 @@ en: &DEFAULT_EN
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/Kiriki-liszt/khj_portfolio
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
@@ -196,4 +195,6 @@ en-CA:
 en-GB:
   <<: *DEFAULT_EN
 en-AU:
+  <<: *DEFAULT_EN
+ko-KR:
   <<: *DEFAULT_EN
