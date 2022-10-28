@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: 작업물 2
   subtitle: 바이오그래피
-  thumbnail: https://raw.githubusercontent.com/Kiriki-liszt/khj_portfolio/master/assets/img/portfolio/04-thumbnail.jpg
+  thumbnail: assets/img/portfolio/05-thumbnail.jpg
   
 #what displays when the item is clicked:
 title: 작업물 2
 subtitle: 어떤어떤 작업물입니다. 
-image: https://raw.githubusercontent.com/Kiriki-liszt/khj_portfolio/master/assets/img/portfolio/04-thumbnail.jpg #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/05-thumbnail.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 category: portfolio

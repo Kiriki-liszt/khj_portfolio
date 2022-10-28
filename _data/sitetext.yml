@@ -119,7 +119,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "윤건"
         role: "일렉기타 세션, 믹스 엔지니어, 웹 페이지 제작/관리"
-        image: assets/img/team/2.jpg
+        image: https://avatars.githubusercontent.com/u/107096260?v=4
         social:
           - url: https://twitter.com
             icon: fab fa-twitter

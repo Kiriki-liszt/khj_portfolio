@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: 보컬 믹싱
   subtitle: 보컬 믹싱이 진행되는 과정과 가격입니다. 
-  thumbnail: https://raw.githubusercontent.com/Kiriki-liszt/khj_portfolio/master/assets/img/portfolio/Vocal.png
+  thumbnail: assets/img/portfolio/Vocal.png
   
 #what displays when the item is clicked:
 title: 보컬 믹싱
 subtitle: 보컬 믹싱이 진행되는 과정과 가격입니다. 
-image: https://raw.githubusercontent.com/Kiriki-liszt/khj_portfolio/master/assets/img/portfolio/Vocal.png
+image: assets/img/portfolio/Vocal.png
 alt: image alt text
 
 category: process_price
