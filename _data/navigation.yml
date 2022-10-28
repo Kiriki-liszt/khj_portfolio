@@ -22,8 +22,8 @@ en: &DEFAULT_EN
       section: process_price
     - title: "작업 환경"
       section: enviroments
-    - title: "Timeline"
-      section: timeline
+#    - title: "Timeline"
+#      section: timeline
     - title: "팀원"
       section: team
     - title: "연락처"
