@@ -24,18 +24,17 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "MR 제작"
-        desc: "원하는 곡을 카피해드립니다. 
-              <br/>장르 가리지 않고 받을 수 있지만 KPOP, 힙합을 제외하면 시간이 걸릴 수 있습니다. "
+        desc: "원하는 곡을 카피해드립니다. <br/>
+              장르 가리지 않고 받을 수 있지만 KPOP, 힙합을 제외하면 시간이 걸릴 수 있습니다. "
         icon: fas fa-file-audio
         #find more at https://fontawesome.com/icons
       - title: "보컬 믹싱"
-        desc: "원하는 스타일로 보컬 믹싱해드립니다.  
-              <br/>원하시면 작업실 방문 후 녹음 가능합니다. "
+        desc: "원하는 스타일로 보컬 믹싱해드립니다.  <br/>
+              원하시면 작업실 방문 후 녹음 가능합니다. "
         icon: fas fa-microphone-alt
       - title: "유튜브 영상 제작"
-        desc: "영상 촬영 및 편집해드립니다. 
-              <br/>퀄리티는 아직 몰루?  
-              <br/>**Markdown** support"
+        desc: "영상 촬영 및 편집해드립니다. <br/>
+              퀄리티는 아직 몰루?"
         icon: fas fa-photo-video
 
 
@@ -49,9 +48,9 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "## 저희는 '스튜디오 미디올로지 / 공현중' 이라고 합니다.  
-          <br/>저희는 웹드라마 OST 작곡 및 대학교 동아리 학생들을 대상으로 작곡 교육을 진행하고 있습니다.  
-          <br/>주로 MR 제작 및 보컬 믹싱을 하고 있으며 이 외에도 작곡 교육이나 작업실 대여, 유튜브 영상 촬영 및 제작 또한 진행하고 있습니다.  " 
+    body: "저희는 '스튜디오 미디올로지 / 공현중' 이라고 합니다.  <br/>
+          저희는 웹드라마 OST 작곡 및 대학교 동아리 학생들을 대상으로 작곡 교육을 진행하고 있습니다.  <br/>
+          주로 MR 제작 및 보컬 믹싱을 하고 있으며 이 외에도 작곡 교육이나 작업실 대여, 유튜브 영상 촬영 및 제작 또한 진행하고 있습니다.  " 
     section: about
 
 
@@ -65,29 +64,29 @@ en: &DEFAULT_EN
   enviroments:
     title: "Enviroments"
     text: "작업 환경"
-    body: "### 스피커  
-          <br/>무슨무슨 스피커다~ 사진 넣을까?  
+    body: "### 스피커 <br/><br/>
+          무슨무슨 스피커다~ 사진 넣을까? <br/>
           <br/>  
-          ### 마이크  
-          <br/>아스톤 스피릿, SM58, MXL V67g, Lauten Audio LA-220  
+          ### 마이크 <br/><br/>
+          아스톤 스피릿, SM58, MXL V67g, Lauten Audio LA-220  <br/>
           <br/>  
-          ### 오인페  
-          <br/>MOTU M2, Clarett 2PRE  
+          ### 오인페  <br/><br/>
+          MOTU M2, Clarett 2PRE  <br/>
           <br/>  
-          ### 아웃보드  
-          <br/>Golgen Age Project - Pre73  
-          <br/>컴프도 하나 사자  
+          ### 아웃보드  <br/><br/>
+          >Golgen Age Project - Pre73  <br/>
+          컴프도 하나 사자  <br/>
           <br/>  
-          ### DAW/플러그인  
-          <br/>Cubase 12 Pro  
-          <br/>Waves Platinum Bundle - abbeyroad collection, J-37, R-serise, ...  
-          <br/>Plugin Aliiance - shadowhills, maag, ssl 4000, black box serise, amek 200, ...  
-          <br/>iZotope - Ozone 9, RX 10  
-          <br/>FabFilter - Pro serise  
-          <br/>LiquidSonics - seventh heaven Reverb  
-          <br/>Sonnox - Inflator  
-          <br/>GoodHertz - panpot, faraday limitor, ...  
-          <br/>wavesfactory - trackspacer  "
+          ### DAW/플러그인  <br/><br/>
+          Cubase 12 Pro  <br/>
+          Waves Platinum Bundle - abbeyroad collection, J-37, R-serise, ...  <br/>
+          Plugin Aliiance - shadowhills, maag, ssl 4000, black box serise, amek 200, ...  <br/>
+          iZotope - Ozone 9, RX 10  <br/>
+          FabFilter - Pro serise  <br/>
+          LiquidSonics - seventh heaven Reverb  <br/>
+          Sonnox - Inflator  <br/>
+          GoodHertz - panpot, faraday limitor, ...  <br/>
+          wavesfactory - trackspacer  "
     section: enviroments
 
 
