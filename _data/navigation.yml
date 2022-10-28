@@ -12,21 +12,21 @@
 
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "서비스"
       section: services
-    - title: "Portfolio"
+    - title: "포트폴리오"
       section: portfolio
-    - title: "About"
+    - title: "어바웃-어스"
       section: about
-    - title: "Process & Price"
+    - title: "진행과정 & 가격"
       section: process_price
-    - title: "Enviroments"
+    - title: "작업 환경"
       section: enviroments
     - title: "Timeline"
       section: timeline
-    - title: "Team"
+    - title: "팀원"
       section: team
-    - title: "Contact"
+    - title: "연락처"
       section: contact
 
 

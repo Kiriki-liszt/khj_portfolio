@@ -19,7 +19,7 @@ en: &DEFAULT_EN
 
 
   services:
-    title: "Services"
+    title: "서비스"
     text: "제공하는 서비스들"
     section: services
     list:
@@ -40,7 +40,7 @@ en: &DEFAULT_EN
 
 
   portfolio:
-    title: "Portfolio"
+    title: "포트폴리오"
     text: "저의 작업물들입니다. <br/>클릭해서 자세히 볼 수 있습니다. "
     section: portfolio
     closebutton: "Close"
