@@ -1,0 +1,5 @@
+from home.html
+
+{% include timeline.html %}
+{% include clients.html %}
+{% include contact.html %}
