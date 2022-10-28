@@ -64,43 +64,32 @@ en: &DEFAULT_EN
   enviroments:
     title: "Enviroments"
     text: "작업 환경"
-    body: "<h3>스피커</h3>
------------
+    body: "<h4>스피커</h4>
+          무슨무슨 스피커다~ 사진 넣을까? <br/>
+          
+          <h4>마이크</h4>
+          아스톤 스피릿, SM58, MXL V67g, Lauten Audio LA-220 <br/>
+          <br/>
 
-무슨무슨 스피커다~ 사진 넣을까?  
-<br/>
+          <h4>오인페</h4>
+          MOTU M2, Clarett 2PRE <br/>  
+          <br/>  
 
-마이크  
------------
+          <h4>아웃보드</h4>
+          Golgen Age Project - Pre73 <br/>  
+          컴프도 하나 사자 <br/>  
+          <br/>  
 
-아스톤 스피릿, SM58, MXL V67g, Lauten Audio LA-220  
-<br/>
-
-오인페  
------------
-
-MOTU M2, Clarett 2PRE  
-<br/>  
-
-아웃보드  
------------
-
-Golgen Age Project - Pre73  
-컴프도 하나 사자  
-<br/>  
-
-DAW/플러그인  
------------
-
-Cubase 12 Pro  <br/>
-Waves Platinum Bundle - abbeyroad collection, J-37, R-serise, ...  <br/>
-Plugin Aliiance - shadowhills, maag, ssl 4000, black box serise, amek 200, ...  <br/>
-iZotope - Ozone 9, RX 10  <br/>
-FabFilter - Pro serise  <br/>
-LiquidSonics - seventh heaven Reverb  <br/>
-Sonnox - Inflator  <br/>
-GoodHertz - panpot, faraday limitor, ...  <br/>
-wavesfactory - trackspacer "
+          <h4>DAW/플러그인</h4>
+          Cubase 12 Pro  <br/>
+          Waves Platinum Bundle - abbeyroad collection, J-37, R-serise, ...  <br/>
+          Plugin Aliiance - shadowhills, maag, ssl 4000, black box serise, amek 200, ...  <br/>
+          iZotope - Ozone 9, RX 10  <br/>
+          FabFilter - Pro serise  <br/>
+          LiquidSonics - seventh heaven Reverb  <br/>
+          Sonnox - Inflator  <br/>
+          GoodHertz - panpot, faraday limitor, ...  <br/>
+          wavesfactory - trackspacer "
     section: enviroments
 
 
