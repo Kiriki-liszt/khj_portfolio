@@ -109,7 +109,7 @@ en: &DEFAULT_EN
     people:
       - name: "공현중"
         role: "팀장 - 주 작편곡자"
-        image: assets/img/team/500x500.jpg
+        image: https://scontent-ssn1-1.xx.fbcdn.net/v/t1.6435-1/126864101_2769538229990084_1545865725837539525_n.jpg?stp=dst-jpg_p200x200&_nc_cat=104&ccb=1-7&_nc_sid=7206a8&_nc_ohc=gbcHkDyYUGQAX--NUt_&_nc_ht=scontent-ssn1-1.xx&oh=00_AfBL2IdaCD8BT_7drC1kMpQZzEqXTzmNMbJETdHkhbfObQ&oe=63800CD3
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
