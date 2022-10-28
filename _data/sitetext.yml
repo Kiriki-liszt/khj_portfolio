@@ -64,7 +64,7 @@ en: &DEFAULT_EN
   enviroments:
     title: "Enviroments"
     text: "작업 환경"
-    body: "스피커  
+    body: "<h3>스피커</h3>
 -----------
 
 무슨무슨 스피커다~ 사진 넣을까?  
