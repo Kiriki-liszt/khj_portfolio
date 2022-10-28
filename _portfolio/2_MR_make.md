@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: MR 제작
   subtitle: 직접 MR 만들어드립니다
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: https://raw.githubusercontent.com/Kiriki-liszt/khj_portfolio/master/assets/img/portfolio/MR_make.png
   
 #what displays when the item is clicked:
 title: MR 제작
 subtitle: 직접 MR 만들어드립니다
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: https://raw.githubusercontent.com/Kiriki-liszt/khj_portfolio/master/assets/img/portfolio/MR_make.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 category: process_price
