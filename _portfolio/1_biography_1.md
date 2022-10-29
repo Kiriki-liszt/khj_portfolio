@@ -24,6 +24,8 @@ category: portfolio
 
 공현중의 바이오그래피. **Markdown** 으로 작성한다.  
 
+{% raw %}{% include video id="-PVofD2A9t8" provider="youtube" %}{% endraw %}
+
 optional info list (delete if not using):
 
 {:.list-inline}  
