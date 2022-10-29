@@ -20,7 +20,7 @@ en: &DEFAULT_EN
 
   services:
     title: "서비스"
-    text: "제공하는 서비스들"
+    text: ""
     section: services
     list:
       - title: "MR 제작"
@@ -66,7 +66,8 @@ en: &DEFAULT_EN
     text: "작업 환경"
     body: "<h4>스피커</h4>
           무슨무슨 스피커다~ 사진 넣을까? <br/>
-          
+          <br/>
+
           <h4>마이크</h4>
           아스톤 스피릿, SM58, MXL V67g, Lauten Audio LA-220 <br/>
           <br/>
@@ -95,8 +96,8 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "우리 팀 소개"
-    subtext: 다양한 일을 하는 저희 팀의 팀원들입니다. 
+    text: 다양한 일을 하는 저희 팀의 팀원들입니다. 
+    subtext: ""
     section: team
     people:
       - name: "공현중"
