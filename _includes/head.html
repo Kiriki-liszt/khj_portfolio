@@ -58,7 +58,7 @@
 
   <script type="text/javascript">
     let myKey = "1QTqccTGFGoKpCj3xj3ZOUr7K2klsEr_IW9qRs8xkDuQ"; // 스프레드시트 KEY
-    var requestURL = `http://spreadsheets.google.com/tq?key=${myKey}&pub=1`;
+    var requestURL = `https://docs.google.com/spreadsheets/d/${myKey}/gviz/tq?tqx=out:json`;
     var request = new XMLHttpRequest();
     request.open('GET', requestURL);
     request.responseType = 'text';
@@ -89,6 +89,6 @@
         myPara.textContent = 'Hometown: ' + jsonObj['homeTown'] + ' // Formed: ' + jsonObj['formed'];
         header.appendChild(myPara);
     }
-</script>
+</script>   
 
 </head>
