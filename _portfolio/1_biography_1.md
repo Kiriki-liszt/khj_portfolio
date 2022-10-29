@@ -7,8 +7,12 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: 작업물 1
 subtitle: 어떤어떤 작업물입니다. 
-image: assets/img/portfolio/04-thumbnail.jpg #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+#image: assets/img/portfolio/04-thumbnail.jpg #main image, can be a link or a file in assets/img/portfolio
+#alt: image alt text
+header:
+  video:
+    id: -PVofD2A9t8
+    provider: youtube
 
 category: portfolio
 ---
